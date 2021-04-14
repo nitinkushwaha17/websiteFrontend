@@ -1,4 +1,4 @@
-const Batch2019 = [
+const Batch2020 = [
 					{
 						name: "Animesh Dutta",
 						post: "Chair",
@@ -94,4 +94,4 @@ const Batch2019 = [
 				];
 
 
-export default Batch2019;
+export default Batch2020;
