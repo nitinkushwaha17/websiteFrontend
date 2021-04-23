@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link, Redirect, Switch, Route, NavLink } from "react-router-dom";
 import "./header.css"
+import logo from '../../media/logos/ieeesb_logo_white.png'
 
 export default class Header extends Component {
 	  constructor(props) {
@@ -81,7 +82,7 @@ export default class Header extends Component {
 	  	 	<Route>
 			  	 <nav className={`navbar navbar-expand ${this.state.isMobile ? "small-screen-navbar" : ""}`} style={{backgroundColor: this.state.color}}>
 			          <a href="#" className="navbar-brand">
-			            IEEESBNITD
+						  <img src={logo}  id='navbar-logo' alt="" />
 			          </a>
 			          <button className={`header-burger ${this.state.isMobile ? "activate" : ""} ${this.state.navnotActive ? "" : "header-burger-active"}`} onClick={this.toggleHeader}>
 			          </button>

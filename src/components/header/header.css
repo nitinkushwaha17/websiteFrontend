@@ -20,6 +20,17 @@
 }
 .navbar-brand{
 	margin-right: auto;
+	
+}
+#navbar-logo{
+	width: 7vw;
+	height: auto;
+}
+#navbar-text{
+	position: absolute;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
 }
 .small-screen-nav{
 	display: flex;
@@ -48,9 +59,7 @@
 .nav-deactive{
 	display: none;
 }
-.nav-link.active{
-	
-}
+
 .nav-link::after{
 	content: "";
 	height: 1px;
@@ -121,4 +130,20 @@
 		margin-right: -10px;
 	}
 
+}
+
+@media only screen and (max-width: 420px){
+	#navbar-logo{
+		width: 20vw;
+		height: auto;
+	}
+	#navbar-text{
+		display: inline-block;
+		margin-top: 20px;
+		margin-left: 20px;
+		font-size: 1rem;
+	}
+	.header-burger{
+		margin-top: 15px;
+	}
 }
