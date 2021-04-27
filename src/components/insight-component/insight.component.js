@@ -31,7 +31,7 @@ export default class Insight extends Component {
 	  	 			<div className="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 wrapper-content">
 	  	 				<div className="p-3"> 
 	  	 					<p className="full-content">Learning has no limit and curiosity has no bound. <font className="font-mid-plus"> IEEE SB NITD </font> strives to do it's bit in alleviating your mind’s scientific curiosity by bringing you 
-	  	 					 <p className="custom-text"><font className="font-plus"> Insight </font> - The official blog of IEEE SB NITD.</p> </p>
+	  	 					 <p className="custom-text"><font className="font-plus"><a href="https://insight.ieeesbnitdgp.com/">Insight </a> </font> - The official blog of IEEE SB NITD.</p> </p>
 	  	 				</div>
 	  	 			</div>
 	  	 			<div className="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 img-container">
