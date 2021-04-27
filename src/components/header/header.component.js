@@ -76,12 +76,10 @@ export default class Header extends Component {
 	  render() {
 
 	  	 return(
-
-
 	  	 	<div>
 	  	 	<Route>
 			  	 <nav className={`navbar navbar-expand ${this.state.isMobile ? "small-screen-navbar" : ""}`} style={{backgroundColor: this.state.color}}>
-			          <a href="#" className="navbar-brand">
+			          <a href="/" className="navbar-brand">
 						  <img src={logo}  id='navbar-logo' alt="" />
 			          </a>
 			          <button className={`header-burger ${this.state.isMobile ? "activate" : ""} ${this.state.navnotActive ? "" : "header-burger-active"}`} onClick={this.toggleHeader}>
