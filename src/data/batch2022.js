@@ -2,7 +2,7 @@ const Batch2022 = [
    {
       name: "Aman Agarwal",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Aman2nd.jpg"),
+      img: require("../media/batch2022/Aman2nd.png"),
       fb: "https://www.facebook.com/animeshdatts",
       insta: "https://www.instagram.com/animesh.suman98/",
       linkedin:
@@ -12,7 +12,7 @@ const Batch2022 = [
    {
       name: "Atul Tiwary",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Atul.jpg"),
+      img: require("../media/batch2022/Atul.png"),
       fb: "https://www.facebook.com/Abhish3kSunny",
       insta: "https://instagram.com/abhish3k_sunny/",
       linkedin: "https://www.linkedin.com/in/zer-0-ne/",
@@ -21,7 +21,7 @@ const Batch2022 = [
    {
       name: "Dhrubajyoti Kumar",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/dhrubajyoti.jpg"),
+      img: require("../media/batch2022/dhrubajyoti.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -31,7 +31,7 @@ const Batch2022 = [
    {
       name: "Gagan Gautam",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/gagan2nd.JPG"),
+      img: require("../media/batch2022/gagan2nd.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -40,7 +40,7 @@ const Batch2022 = [
    {
       name: "Khushi Bansal",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Khusi3.jpg"),
+      img: require("../media/batch2022/Khusi3.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -49,7 +49,7 @@ const Batch2022 = [
    {
       name: "Mohit Kochar",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Mohit.jpg"),
+      img: require("../media/batch2022/Mohit.png"),
       fb: "https://www.facebook.com/profile.php?id=100006949692977",
       insta: "https://instagram.com/amitav.507/",
       linkedin: "https://www.linkedin.com/in/amitava-das-77b411155/",
@@ -58,16 +58,7 @@ const Batch2022 = [
    {
       name: "Pritish Singhal",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Pritish1.jpg"),
-      fb: "https://www.facebook.com/Prateekee",
-      insta: "https://instagram.com/granger2423/",
-      linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
-      mail: "",
-   },
-   {
-      name: "Soumya Chatterjee",
-      post: "Senior Executive Member",
-      img: require("../media/batch2022/Soumya.jpg"),
+      img: require("../media/batch2022/Pritish.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -76,7 +67,7 @@ const Batch2022 = [
    {
       name: "Subhangee Shrey",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/Shubhangee Shrey.jpg"),
+      img: require("../media/batch2022/Shubhangee Shrey.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -85,7 +76,7 @@ const Batch2022 = [
    {
       name: "Vimal Dubey",
       post: "Senior Executive Member",
-      img: require("../media/batch2022/vimal.jpg"),
+      img: require("../media/batch2022/vimal.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",

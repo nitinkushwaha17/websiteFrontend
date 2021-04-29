@@ -2,7 +2,7 @@ const Batch2019 = [
    {
       name: "Aniq Ur Rahman",
       post: "Chair",
-      img: require("../media/batch2019/aniq2.jpg"),
+      img: require("../media/batch2019/aniq.png"),
       fb: "https://www.facebook.com/animeshdatts",
       insta: "https://www.instagram.com/animesh.suman98/",
       linkedin:
@@ -12,7 +12,7 @@ const Batch2019 = [
    {
       name: "Arunava Manna",
       post: "Vice Chair",
-      img: require("../media/batch2019/arunava.jpg"),
+      img: require("../media/batch2019/arunava.png"),
       fb: "https://www.facebook.com/Abhish3kSunny",
       insta: "https://instagram.com/abhish3k_sunny/",
       linkedin: "https://www.linkedin.com/in/zer-0-ne/",
@@ -21,7 +21,7 @@ const Batch2019 = [
    {
       name: "Jeet Sensarma",
       post: "Secretary",
-      img: require("../media/batch2019/jeet.jpg"),
+      img: require("../media/batch2019/jeet.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -30,7 +30,7 @@ const Batch2019 = [
    {
       name: "Neeraj Kumar Prajapati",
       post: "Treasurer",
-      img: require("../media/batch2019/neeraj.jpg"),
+      img: require("../media/batch2019/neeraj.png"),
       fb: "https://www.facebook.com/profile.php?id=100006949692977",
       insta: "https://instagram.com/amitav.507/",
       linkedin: "https://www.linkedin.com/in/amitava-das-77b411155/",
@@ -39,7 +39,7 @@ const Batch2019 = [
    {
       name: "Sohom Mukherjee",
       post: "Computing Society Head",
-      img: require("../media/batch2019/sohom.jpg"),
+      img: require("../media/batch2019/sohom.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -48,37 +48,37 @@ const Batch2019 = [
    {
       name: "Arindam Dutta",
       post: "Power And Control Society Head",
-      img: require("../media/batch2019/arindam.jpg"),
+      img: require("../media/batch2019/arindam.png"),
    },
    {
       name: "Phani CH",
       post: "Public Relations Head",
-      img: require("../media/batch2019/phani.jpg"),
+      img: require("../media/batch2019/phani.png"),
    },
    {
       name: "Akash Pratim De",
       post: "Webmaster",
-      img: require("../media/batch2019/akash.jpg"),
+      img: require("../media/batch2019/akash.png"),
    },
    {
       name: "Sankalita Chakraborty",
       post: "Management Head",
-      img: require("../media/batch2019/sankalita.jpg"),
+      img: require("../media/batch2019/sankalita.png"),
    },
    {
       name: "Ushasi Ghosh",
       post: "COMSOC Head",
-      img: require("../media/batch2019/ushasi.jpg"),
+      img: require("../media/batch2019/ushasi.png"),
    },
    {
       name: "Tanya Barnwal",
       post: "Advertisement Head",
-      img: require("../media/batch2019/tanya.jpg"),
+      img: require("../media/batch2019/tanya.png"),
    },
    {
       name: "Madhurima Paul",
       post: "Publicity Head",
-      img: require("../media/batch2019/madhurima.jpg"),
+      img: require("../media/batch2019/madhurima.png"),
    },
 ];
 

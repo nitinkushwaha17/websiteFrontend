@@ -3,8 +3,8 @@ import { Link, Redirect, Switch, Route } from "react-router-dom";
 import "../common.css"
 import "./testinomial.css"
 import SlideShow from "../landing-slider/landing.slider.component"
-import aniq from "../../media/batch2019/aniq.jpg"
-import arindam from "../../media/batch2019/arindam.jpg"
+import aniq from "../../media/batch2019/aniq.png"
+import arindam from "../../media/batch2019/arindam.png"
 
 
 

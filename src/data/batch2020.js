@@ -2,7 +2,7 @@ const Batch2020 = [
 					{
 						name: "Animesh Dutta",
 						post: "Chair",
-						img: require("../media/batch2020/ANIMESH.jpg"),
+						img: require("../media/batch2020/ANIMESH.png"),
 						fb: "https://www.facebook.com/animeshdatts",
 						insta: "https://www.instagram.com/animesh.suman98/",
 						linkedin: "https://www.linkedin.com/in/animesh-datta-60770115b/?originalSubdomain=in",
@@ -13,7 +13,7 @@ const Batch2020 = [
 					{
 						name: "Abhishek Singh",
 						post: "Vice Chair",
-						img: require("../media/batch2020/abhisekh.jpg"),
+						img: require("../media/batch2020/Abhisekh.png"),
 						fb: "https://www.facebook.com/Abhish3kSunny",
 						insta: "https://instagram.com/abhish3k_sunny/",
 						linkedin: "https://www.linkedin.com/in/zer-0-ne/",
@@ -23,7 +23,7 @@ const Batch2020 = [
 					{
 						name: "Monsij Biswal",
 						post: "Secretary",
-						img: require("../media/batch2020/Monsij.jpg"),
+						img: require("../media/batch2020/Monsij.png"),
 						fb: "https://www.facebook.com/monsij98",
 						insta: "https://instagram.com/monsij98/",
 						linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -33,7 +33,7 @@ const Batch2020 = [
 					{
 						name: "Amitava Das",
 						post: "Treasurer",
-						img: require("../media/batch2020/Amitava.jpg"),
+						img: require("../media/batch2020/Amitava.png"),
 						fb: "https://www.facebook.com/profile.php?id=100006949692977",
 						insta: "https://instagram.com/amitav.507/",
 						linkedin: "https://www.linkedin.com/in/amitava-das-77b411155/",
@@ -43,7 +43,7 @@ const Batch2020 = [
 					{
 						name: "Prateekee Chatterjee",
 						post: "Convener",
-						img: require("../media/batch2020/Prateekee.jpg"),
+						img: require("../media/batch2020/Prateekee.png"),
 						fb: "https://www.facebook.com/Prateekee",
 						insta: "https://instagram.com/granger2423/",
 						linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -53,7 +53,7 @@ const Batch2020 = [
 					{
 						name: "Subhadeep Chandra",
 						post: "Webmaster",
-						img: require("../media/batch2020/Subhadeep Chandra.jpg"),
+						img: require("../media/batch2020/Subhadeep Chandra.png"),
 						fb: "https://www.facebook.com/warriorsubha",
 						insta: "https://instagram.com/subha_kulukulu",
 						linkedin: "https://www.linkedin.com/in/subhadeep-chandra-707680132/",
@@ -61,9 +61,9 @@ const Batch2020 = [
 
 					},
 					{
-						name: "Tomoghno Das",
+						name: "Tamoghno Das",
 						post: "Sponsorship Chair",
-						img: require("../media/batch2020/TamoghnoDas.jpg"),
+						img: require("../media/batch2020/Tamoghno Das.png"),
 						fb: "https://www.facebook.com/tamoghnod",
 						insta: "https://www.instagram.com/adorshobadi_chokra/",
 						linkedin: "https://www.linkedin.com/in/tamoghnodas/",
@@ -73,7 +73,7 @@ const Batch2020 = [
 					{
 						name: "Anumoy Ganguly",
 						post: "Co-convener",
-						img: require("../media/batch2020/anumoy.jpeg"),
+						img: require("../media/batch2020/anumoy.png"),
 						fb: "https://www.facebook.com/anumoy.ganguly",
 						insta: "https://www.instagram.com/anumoyganguly/",
 						linkedin: "https://www.linkedin.com/in/anumoy-ganguly-0bb91616a/",
@@ -83,7 +83,7 @@ const Batch2020 = [
 					{
 						name: "Ishani Nag",
 						post: "Events Chair",
-						img: require("../media/batch2020/ishani2.jpg"),
+						img: require("../media/batch2020/ishani.png"),
 						fb: "https://www.facebook.com/ishani.nag.75",
 						insta: "",
 						linkedin: "",
