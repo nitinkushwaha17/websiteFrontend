@@ -11,7 +11,7 @@ const Batch2023 = [
    {
       name: "Aditi Sengupta",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/aditi.jpeg"),
+      img: require("../media/batch2023/aditi.png"),
       fb: "https://www.facebook.com/Abhish3kSunny",
       insta: "https://instagram.com/abhish3k_sunny/",
       linkedin: "https://www.linkedin.com/in/zer-0-ne/",
@@ -20,7 +20,7 @@ const Batch2023 = [
    {
       name: "Akshat Bhatnagar",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Akshat1st.jpg"),
+      img: require("../media/batch2023/Akshat1st.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -29,7 +29,7 @@ const Batch2023 = [
    {
       name: "Aman Kumar",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Aman_Kumar2.jpg"),
+      img: require("../media/batch2023/Aman_Kumar2.png"),
       fb: "https://www.facebook.com/profile.php?id=100006949692977",
       insta: "https://instagram.com/amitav.507/",
       linkedin: "https://www.linkedin.com/in/amitava-das-77b411155/",
@@ -38,7 +38,7 @@ const Batch2023 = [
    {
       name: "Arka Seth",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/ArkaMugshot.jpeg"),
+      img: require("../media/batch2023/arka.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -47,7 +47,7 @@ const Batch2023 = [
    {
       name: "Chetan Sheoran",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Chetan.jpeg"),
+      img: require("../media/batch2023/chetan.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -56,7 +56,7 @@ const Batch2023 = [
    {
       name: "Disha Sharma",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/disha.jpeg"),
+      img: require("../media/batch2023/disha.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -65,7 +65,7 @@ const Batch2023 = [
    {
       name: "Ishaun Sinha",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Ishaun_Sinha.jpg"),
+      img: require("../media/batch2023/Ishaun_Sinha.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -74,7 +74,7 @@ const Batch2023 = [
    {
       name: "Payel Bose",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Payel1st.jpg"),
+      img: require("../media/batch2023/Payel1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -83,7 +83,7 @@ const Batch2023 = [
    {
       name: "Sagar Agarwal",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Sagar1st.jpg"),
+      img: require("../media/batch2023/Sagar1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -92,7 +92,7 @@ const Batch2023 = [
    {
       name: "Santam Roy Choudhury",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Santam Roy Choudhury.jpg"),
+      img: require("../media/batch2023/Santam Roy Choudhury.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -101,7 +101,7 @@ const Batch2023 = [
    {
       name: "Sayan Mondal",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Sayan1st.jpg"),
+      img: require("../media/batch2023/Sayan1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
@@ -110,7 +110,7 @@ const Batch2023 = [
    {
       name: "Vaishali Barua",
       post: "Junior Executive Member",
-      img: require("../media/batch2023/Vaishali1st.jpg"),
+      img: require("../media/batch2023/Vaishali1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
