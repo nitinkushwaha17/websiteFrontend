@@ -70,7 +70,7 @@ class Events extends Component {
 			  		<div className="col-xs-12 col-sm-12 col-md-6 col-lg-4">
 			  			<div className="card">
 				  			<div className="image-wrapper">
-				  				<img className="card-img-top" src={post.image} />
+				  				<img className="card-img-top event-img" src={post.image} />
 				  			</div>
 						    <div className="card-body text-center" >
 						      <h5 className="card-title">{post.title}</h5>

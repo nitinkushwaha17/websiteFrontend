@@ -66,16 +66,16 @@ constructor(props) {
         		<h1 className="display-3 text-light"> Events </h1>
         	</div>
         	
-			  <div className="row">
+			  <div className="row row-details">
 			  	{this.state.retrieved ? "" : (
 			  		<div className="display-3 p-3">
 			  			Loading...
 			  		</div>
 			  		)}
 			  	
-			  		<div className="col-xs-12 col-sm-12 col-md-8 col-lg-8 card">
-			  			<div className="image-wrapper">
-			  				<img className="card-img-top" src={this.state.currentEvent.image} />
+			  		<div className="col-xs-12 col-sm-12 col-md-8 col-lg-8 card card-details">
+			  			<div className="image-wrapper image-wrapper-details">
+			  				<img className="card-img-top event-img-details" src={this.state.currentEvent.image} />
 			  			</div>
 					    <div className="card-body">
 					      <h1 className="text-center heading lead">{this.state.currentEvent.title}</h1>
