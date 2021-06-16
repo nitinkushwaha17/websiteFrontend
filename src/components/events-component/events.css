@@ -1,11 +1,20 @@
 .card{
 	padding: 0;
 	margin: 1rem;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+	height: 95%;
+}
+.card.card-details{
+	padding: 20px;
+}
+.card-details .card-body p{
+	font-size: 1rem;
 }
 .image-wrapper{
-	max-height: 200px;
+	max-height: 250px;
 	overflow: hidden;
 	width: 100%;
+	text-align: center;
 }
 .banner{
 	background-color: rgb(64, 144, 240);
@@ -13,6 +22,7 @@
 }
 .grid-img-wrapper{
 	align-items: center;
+	padding: 20px 40px;
 }
 .grid-img{
 	padding: 2px;
@@ -23,4 +33,23 @@
 .heading{
 	font-size: 2.4em;
 	padding: 1rem;
+	font-weight: bold;
+}
+.image-wrapper .card-img-top.event-img{
+	width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding-top: 20px;
+}
+.image-wrapper .card-img-top.event-img-details{
+	width: auto;
+    max-width: 100%;
+    max-height: 400px;
+    padding-top: 40px;
+}
+.image-wrapper.image-wrapper-details{
+	max-height: 400px;
+}
+.row.row-details{
+	justify-content: center;
 }
