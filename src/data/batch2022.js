@@ -1,37 +1,8 @@
 const Batch2022 = [
    {
-      name: "Aman Agarwal",
-      post: "Senior Executive Member",
-      img: require("../media/batch2022/Aman2nd.png"),
-      fb: "https://www.facebook.com/animeshdatts",
-      insta: "https://www.instagram.com/animesh.suman98/",
-      linkedin:
-         "https://www.linkedin.com/in/animesh-datta-60770115b/?originalSubdomain=in",
-      mail: "",
-   },
-   {
-      name: "Atul Tiwary",
-      post: "Senior Executive Member",
-      img: require("../media/batch2022/Atul.png"),
-      fb: "https://www.facebook.com/Abhish3kSunny",
-      insta: "https://instagram.com/abhish3k_sunny/",
-      linkedin: "https://www.linkedin.com/in/zer-0-ne/",
-      mail: "",
-   },
-   {
       name: "Dhrubajyoti Kumar",
-      post: "Senior Executive Member",
+      post: "Chair",
       img: require("../media/batch2022/dhrubajyoti.png"),
-      fb: "https://www.facebook.com/monsij98",
-      insta: "https://instagram.com/monsij98/",
-      linkedin: "https://www.linkedin.com/in/monsijb/",
-      mail: "",
-   },
-
-   {
-      name: "Gagan Gautam",
-      post: "Senior Executive Member",
-      img: require("../media/batch2022/gagan2nd.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
       linkedin: "https://www.linkedin.com/in/monsijb/",
@@ -39,7 +10,7 @@ const Batch2022 = [
    },
    {
       name: "Khushi Bansal",
-      post: "Senior Executive Member",
+      post: "Vice Chair",
       img: require("../media/batch2022/Khusi3.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
@@ -48,7 +19,7 @@ const Batch2022 = [
    },
    {
       name: "Mohit Kochar",
-      post: "Senior Executive Member",
+      post: "Secretary",
       img: require("../media/batch2022/Mohit.png"),
       fb: "https://www.facebook.com/profile.php?id=100006949692977",
       insta: "https://instagram.com/amitav.507/",
@@ -56,17 +27,18 @@ const Batch2022 = [
       mail: "",
    },
    {
-      name: "Pritish Singhal",
-      post: "Senior Executive Member",
-      img: require("../media/batch2022/Pritish.png"),
-      fb: "https://www.facebook.com/Prateekee",
-      insta: "https://instagram.com/granger2423/",
-      linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
+      name: "Aman Agarwal",
+      post: "Treasurer",
+      img: require("../media/batch2022/Aman2nd.png"),
+      fb: "https://www.facebook.com/animeshdatts",
+      insta: "https://www.instagram.com/animesh.suman98/",
+      linkedin:
+         "https://www.linkedin.com/in/animesh-datta-60770115b/?originalSubdomain=in",
       mail: "",
    },
    {
       name: "Subhangee Shrey",
-      post: "Senior Executive Member",
+      post: "Webmaster",
       img: require("../media/batch2022/Shubhangee Shrey.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -75,13 +47,42 @@ const Batch2022 = [
    },
    {
       name: "Vimal Dubey",
-      post: "Senior Executive Member",
+      post: "Convener",
       img: require("../media/batch2022/vimal.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
       linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
       mail: "",
    },
+   {
+      name: "Pritish Singhal",
+      post: "Events Chair",
+      img: require("../media/batch2022/Pritish.png"),
+      fb: "https://www.facebook.com/Prateekee",
+      insta: "https://instagram.com/granger2423/",
+      linkedin: "https://www.linkedin.com/in/prateekee-chatterjee/",
+      mail: "",
+   },
+   {
+      name: "Gagan Gautam",
+      post: "Publicity & Outreach Chair",
+      img: require("../media/batch2022/gagan2nd.png"),
+      fb: "https://www.facebook.com/monsij98",
+      insta: "https://instagram.com/monsij98/",
+      linkedin: "https://www.linkedin.com/in/monsijb/",
+      mail: "",
+   },
+   {
+      name: "Atul Tiwary",
+      post: "Logistics Chair",
+      img: require("../media/batch2022/Atul.png"),
+      fb: "https://www.facebook.com/Abhish3kSunny",
+      insta: "https://instagram.com/abhish3k_sunny/",
+      linkedin: "https://www.linkedin.com/in/zer-0-ne/",
+      mail: "",
+   },
+    
+   
 ];
 
 export default Batch2022;

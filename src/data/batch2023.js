@@ -1,7 +1,7 @@
 const Batch2023 = [
    {
       name: "Abhishek Basu",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Abhishek1.png"),
       fb: "https://www.facebook.com/AbhishekBasuIsAwesome",
       insta: "https://www.instagram.com/iabhishekbasu/",
@@ -10,7 +10,7 @@ const Batch2023 = [
    },
    {
       name: "Aditi Sengupta",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/aditi.png"),
       fb: "https://www.facebook.com/Abhish3kSunny",
       insta: "https://instagram.com/abhish3k_sunny/",
@@ -19,7 +19,7 @@ const Batch2023 = [
    },
    {
       name: "Akshat Bhatnagar",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Akshat1st.png"),
       fb: "https://www.facebook.com/monsij98",
       insta: "https://instagram.com/monsij98/",
@@ -28,7 +28,7 @@ const Batch2023 = [
    },
    {
       name: "Aman Kumar",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Aman_Kumar2.png"),
       fb: "https://www.facebook.com/profile.php?id=100006949692977",
       insta: "https://instagram.com/amitav.507/",
@@ -37,7 +37,7 @@ const Batch2023 = [
    },
    {
       name: "Arka Seth",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/arka.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -46,7 +46,7 @@ const Batch2023 = [
    },
    {
       name: "Chetan Sheoran",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/chetan.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -55,7 +55,7 @@ const Batch2023 = [
    },
    {
       name: "Disha Sharma",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/disha.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -64,7 +64,7 @@ const Batch2023 = [
    },
    {
       name: "Ishaun Sinha",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Ishaun_Sinha.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -73,7 +73,7 @@ const Batch2023 = [
    },
    {
       name: "Payel Bose",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Payel1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -82,7 +82,7 @@ const Batch2023 = [
    },
    {
       name: "Sagar Agarwal",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Sagar1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -91,7 +91,7 @@ const Batch2023 = [
    },
    {
       name: "Santam Roy Choudhury",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Santam Roy Choudhury.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -100,7 +100,7 @@ const Batch2023 = [
    },
    {
       name: "Sayan Mondal",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Sayan1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
@@ -109,7 +109,7 @@ const Batch2023 = [
    },
    {
       name: "Vaishali Barua",
-      post: "Junior Executive Member",
+      post: "Senior Executive Member",
       img: require("../media/batch2023/Vaishali1st.png"),
       fb: "https://www.facebook.com/Prateekee",
       insta: "https://instagram.com/granger2423/",
