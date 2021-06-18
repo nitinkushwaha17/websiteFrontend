@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Link, Redirect, Switch, Route } from "react-router-dom";
 import "../common.css"
 import "./team.css"
-import Batch2021 from "../../data/batch2021"
+import Batch2022 from "../../data/batch2022"
 
 
 
@@ -11,7 +11,7 @@ export default class Team extends Component {
 	    super(props);
 
 	    this.state = {
-	    	teamlist: Batch2021.slice(0,4)
+	    	teamlist: Batch2022.slice(0,4)
 	    	
 	    };
 	  }
