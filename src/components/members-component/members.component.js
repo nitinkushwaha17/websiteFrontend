@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Link, Redirect, Switch, Route } from "react-router-dom";
 import "../common.css";
 import "./members.css";
-import Batch2021 from "../../data/batch2021";
 import Batch2022 from "../../data/batch2022";
 import Batch2023 from "../../data/batch2023";
 import Batch2024 from "../../data/batch2024";
@@ -17,9 +16,8 @@ export default class Memebrs extends Component {
       this.activate = this.activate.bind(this);
       this.toggleDockClass = this.toggleDockClass.bind(this);
       this.state = {
-         activedata: Batch2021,
-         isactive2021: true,
-         isactive2022: false,
+         activedata: Batch2022,
+         isactive2022: true,
          isactive2023: false,
          isactive2024: false,
          imageHash: Date.now(),
@@ -31,17 +29,11 @@ export default class Memebrs extends Component {
    componentDidMount() {}
    activate(year) {
       this.setState({
-         isactive2021: false,
          isactive2022: false,
          isactive2023: false,
          isactive2024: false,
       });
-      if (year == 2022) {
-         this.setState({
-            activedata: Batch2022,
-            isactive2022: true,
-         });
-      } else if (year == 2023) {
+      if (year == 2023) {
          this.setState({
             activedata: Batch2023,
             isactive2023: true,
@@ -53,8 +45,8 @@ export default class Memebrs extends Component {
          });
       } else {
          this.setState({
-            activedata: Batch2021,
-            isactive2021: true,
+            activedata: Batch2022,
+            isactive2022: true,
          });
       }
    }
@@ -165,21 +157,12 @@ export default class Memebrs extends Component {
                <div className="button-wrapper d-flex justify-content-around">
                   <button
                      className={`btn pl-3 pr-3 btn-primary ${
-                        this.state.isactive2021 ? "active btn-secondary" : ""
-                     }`}
-                     onClick={() => this.activate(2021)}
-                  >
-                     {" "}
-                     Final Year{" "}
-                  </button>
-                  <button
-                     className={`btn pl-3 pr-3 btn-primary ${
                         this.state.isactive2022 ? "active btn-secondary" : ""
                      }`}
                      onClick={() => this.activate(2022)}
                   >
                      {" "}
-                     Third Year{" "}
+                     Final Year{" "}
                   </button>
                   <button
                      className={`btn pl-3 pr-3 btn-primary ${
@@ -188,7 +171,7 @@ export default class Memebrs extends Component {
                      onClick={() => this.activate(2023)}
                   >
                      {" "}
-                     Second Year{" "}
+                     Third Year{" "}
                   </button>
                   <button
                      className={`btn pl-3 pr-3 btn-primary ${
@@ -197,8 +180,17 @@ export default class Memebrs extends Component {
                      onClick={() => this.activate(2024)}
                   >
                      {" "}
-                     First Year{" "}
+                     Second Year{" "}
                   </button>
+                  {/* <button
+                     className={`btn pl-3 pr-3 btn-primary ${
+                        this.state.isactive2024 ? "active btn-secondary" : ""
+                     }`}
+                     onClick={() => this.activate(2024)}
+                  >
+                     {" "}
+                     First Year{" "}
+                  </button> */}
                </div>
                <nav className="side-dock">
                   <div
@@ -208,21 +200,12 @@ export default class Memebrs extends Component {
                   >
                      <button
                         className={`pl-3 pr-3 ${
-                           this.state.isactive2021 ? "active-nav-link" : ""
-                        }`}
-                        onClick={() => this.activate(2021)}
-                     >
-                        {" "}
-                        Final Year{" "}
-                     </button>
-                     <button
-                        className={`pl-3 pr-3 ${
                            this.state.isactive2022 ? "active-nav-link" : ""
                         }`}
                         onClick={() => this.activate(2022)}
                      >
                         {" "}
-                        Third Year{" "}
+                        Final Year{" "}
                      </button>
                      <button
                         className={`pl-3 pr-3 ${
@@ -231,7 +214,7 @@ export default class Memebrs extends Component {
                         onClick={() => this.activate(2023)}
                      >
                         {" "}
-                        Second Year{" "}
+                        Third Year{" "}
                      </button>
                      <button
                         className={`pl-3 pr-3 ${
@@ -240,8 +223,17 @@ export default class Memebrs extends Component {
                         onClick={() => this.activate(2024)}
                      >
                         {" "}
-                        First Year{" "}
+                        Second Year{" "}
                      </button>
+                     {/* <button
+                        className={`pl-3 pr-3 ${
+                           this.state.isactive2024 ? "active-nav-link" : ""
+                        }`}
+                        onClick={() => this.activate(2024)}
+                     >
+                        {" "}
+                        First Year{" "}
+                     </button> */}
                   </div>
                   <button
                      className="dock-opener"
